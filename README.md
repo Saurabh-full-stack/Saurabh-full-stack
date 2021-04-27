@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saurabh-full-stack
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning html, css, bootstrap, php and javascript. 
-- 💞️ I’m looking to collaborate on the projects where the mentioned languages are being used, if new technology will be use i happy to learn. 
+- 💞️ I’m looking to collaborate on the projects where the mentioned languages are being used, if new technology will be use I am happy to learn. 
 - 📫 How to reach me ... Mail me on skumarrkt1999@gmail.com
 
 <!---
